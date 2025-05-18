@@ -1,1 +1,0 @@
-from model.ptdec.dec import DEC

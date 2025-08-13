@@ -1,1 +1,3 @@
 # BrainMappingTransformer
+
+![image](framework.png)
